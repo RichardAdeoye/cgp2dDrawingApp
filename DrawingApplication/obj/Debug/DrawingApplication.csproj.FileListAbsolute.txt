@@ -1,0 +1,8 @@
+K:\DrawingApplication\obj\Debug\DrawingApplication.Properties.Resources.resources
+K:\DrawingApplication\obj\Debug\DrawingApplication.csproj.GenerateResource.cache
+K:\DrawingApplication\obj\Debug\DrawingApplication.csproj.CoreCompileInputs.cache
+K:\DrawingApplication\bin\Debug\DrawingApplication.exe.config
+K:\DrawingApplication\bin\Debug\DrawingApplication.exe
+K:\DrawingApplication\bin\Debug\DrawingApplication.pdb
+K:\DrawingApplication\obj\Debug\DrawingApplication.exe
+K:\DrawingApplication\obj\Debug\DrawingApplication.pdb
